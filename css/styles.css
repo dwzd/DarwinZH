@@ -142,12 +142,21 @@ h3{
 #cta{
   background-color: #ff4c68;
   text-align: center;
-  padding: 5% 20%;
+  padding: 5% 15%;
 }
 #cta h3{
   color: #fff;
   font-family: "Montserrat";
-  font-weight: bold;
-  font-size: 1.5rem;
+  line-height: 1.5;
+  font-size: 2rem;
   margin-bottom: 30px;
+}
+
+/* footer */
+#footer{
+  text-align: center;
+  padding: 5% 15%;
+}
+.social-icon{
+  margin: 20px 10px;
 }
