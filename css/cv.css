@@ -3,8 +3,8 @@ body{
   font-family: 'Montserrat';
 }
 #title{
-  background-color: #ff4c68;
-  color: #fff;
+  background-color: #ffefe0;
+  color: #7d7d7d;
 
 }
 .container-fluid{
@@ -23,17 +23,20 @@ body{
 
 .navbar{
   padding: 0 0 4rem;
+  color: #7d7d7d;
 }
-.navbar-brand{
+.navbar .navbar-brand{
   font-family: "Ubuntu";
   font-size: 2.5rem;
   font-weight: bold;
+  color: #7d7d7d;
 }
 
 
-.nav-link{
+#navbarTogglerDemo02 a{
   font-size: 1.2rem;
   font-family: "Montserrat-Light";
+  color: #6b7b8e;
 }
 
 .download-btn {
@@ -95,7 +98,7 @@ body{
 #thecarousel {
   /* padding: 5% 15%; */
   text-align: center;
-  background-color: #e78172;
+  background-color: #fed9ca;
 }
 #thecarousel h3{
   color: #fff;
@@ -114,7 +117,7 @@ body{
 
 #press {
   text-align: center;
-  background-color: #e78172;
+  background-color: #fed9ca;
   padding-bottom: 3%;
 }
 .press-logo {
@@ -125,12 +128,12 @@ body{
 
 /* download */
 #download{
-  background-color: #ff4c68;
+  background-color: #ffefe0;
   text-align: center;
   padding: 5% 15%;
 }
 #download h3{
-  color: #fff;
+  color: #7d7d7d;
   font-family: "Montserrat";
   line-height: 1.5;
   font-size: 2rem;
