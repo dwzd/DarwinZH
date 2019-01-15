@@ -153,3 +153,14 @@ body{
 .social-icon{
   margin: 20px 10px;
 }
+
+/* contact */
+#contactform{
+  text-align: center;
+}
+.contactme{
+  /* text-align: center; */
+}
+.contactme .contact-info .lab{
+  text-align: left;
+}
