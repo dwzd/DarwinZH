@@ -33,12 +33,14 @@ body{
 }
 
 
-#navbarTogglerDemo02 a{
+.navbar .collapse .navbar-nav .nav-item .nav-link{
   font-size: 1.2rem;
-  font-family: "Montserrat-Light";
-  color: #6b7b8e;
+  font-family: "Montserrat";
+  color: #7d7d7d;
 }
-
+.navbar .collapse .navbar-nav .nav-item .nav-link:hover{
+  color: #ff8162;
+}
 .download-btn {
   margin: 5% 3% 5% 0;
 }
