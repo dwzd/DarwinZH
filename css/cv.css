@@ -91,65 +91,58 @@ body{
   color: #ff4c68;
 }
 
-/* testimonials */
-#testimonials {
+/* carousel */
+#thecarousel {
   /* padding: 5% 15%; */
   text-align: center;
   background-color: #e78172;
 }
-#testimonials h2{
+#thecarousel h3{
   color: #fff;
   font-family: "Montserrat";
   font-weight: bold;
 }
 .testimonial-img {
-  width: 15%;
+  width: 20%;
   border-radius: 100%;
   margin: 20px;
 }
 .carousel-item{
   padding: 5% 15%;
 }
+
+
 #press {
   text-align: center;
   background-color: #e78172;
   padding-bottom: 3%;
 }
 .press-logo {
-  width: 15%;
+  width: 10%;
   margin: 10px;
 }
 
-/* pricing section */
-#pricing{
-  padding: 100px;
-}
-h2{
 
-  font-family: "Montserrat";
-  font-weight: bold;
-}
-h3{
-  font-size: 1.2rem;
-  font-family: "Montserrat";
-  font-weight: bold;
-}
-.price-content {
-  padding: 3% 2%;
-}
-
-/* Call to Action */
-#cta{
+/* download */
+#download{
   background-color: #ff4c68;
   text-align: center;
   padding: 5% 15%;
 }
-#cta h3{
+#download h3{
   color: #fff;
   font-family: "Montserrat";
   line-height: 1.5;
   font-size: 2rem;
   margin-bottom: 30px;
+}
+#download .download-btn .download1{
+  text-decoration: none;
+  color: #fff;
+}
+#download .download-btn .download2{
+  text-decoration: none;
+  color: #000;
 }
 
 /* footer */
